@@ -7,7 +7,7 @@ for i in range(l):
     else:
         dic[s[i]] += 1
 for j in range(l):
-    if dic[s[j]]==1:
+    if dic[s[j]] == 1:
         print(j)
         break
 else:
