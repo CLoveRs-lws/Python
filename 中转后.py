@@ -55,4 +55,3 @@ for _ in range(n):
         b.append(k)
     
     print(*b, sep=' ')
-print("hello world")
